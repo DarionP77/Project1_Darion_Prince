@@ -28,3 +28,5 @@ I'm sorry, my secret?
 
 I use skill to grab a hold of luck!
 
+![Hakari](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuy_IeCjPPkbdsHWGgI4cLeKeqA5QKs1N6eQ&usqp=CAU)
+
