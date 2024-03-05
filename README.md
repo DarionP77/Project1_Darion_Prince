@@ -8,6 +8,8 @@
 
 <h1>Did Hakari live up to the hype? </h1>
 
+body {
+  background-color: lightblue;
 Overall, Yes., he's the most enjoyable for me and my new personal favorite.
 
 A strong sorcerery, Yuta thinks Hakari is stronger when hes "on a roll" 
@@ -28,7 +30,7 @@ Gege is a troll for doing this
 
 I'm sorry, my secret?
 
-I use skill to grab a hold of luck!
+I use skill to grab a hold of luck!}
 
 ![Hakari](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuy_IeCjPPkbdsHWGgI4cLeKeqA5QKs1N6eQ&usqp=CAU)
 
