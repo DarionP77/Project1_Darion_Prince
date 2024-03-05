@@ -6,6 +6,8 @@
 
 [Hakari](https://ih1.redbubble.net/image.4961976569.8589/st,small,507x507-pad,600x600,f8f8f8.jpg)
 
+![Hakari](https://ih1.redbubble.net/image.4961976569.8589/st,small,507x507-pad,600x600,f8f8f8.jpg)
+
 Overall, Yes., he's the most enjoyable for me and my new personal favorite.
 
 A strong sorcerery, Yuta thinks Hakari is stronger when hes "on a roll" 
